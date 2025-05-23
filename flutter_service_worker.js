@@ -58,8 +58,8 @@ const RESOURCES = {"favicon.ico": "11105844f94ff3d799c9179ca416cf0d",
 "canvaskit/chromium/canvaskit.wasm": "f5934e694f12929ed56a671617acd254",
 "canvaskit/chromium/canvaskit.js.symbols": "4525682ef039faeb11f24f37436dca06",
 "favicon2.ico": "7bf86ae40ec541e3723c6a2baf3361e1",
-"index.html": "e34f87f088be27e9cb35558eeed08ef5",
-"/": "e34f87f088be27e9cb35558eeed08ef5",
+"index.html": "70d3cd8b903a427cd6c4717cc1d408a7",
+"/": "70d3cd8b903a427cd6c4717cc1d408a7",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a"};
 // The application shell files that are downloaded before a service worker can
 // start.
