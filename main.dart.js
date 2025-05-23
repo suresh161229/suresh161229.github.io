@@ -73416,7 +73416,7 @@ case"or":return"\u0b2e\u0b41\u0b28\u0b3f\u0b17\u0b47\u0b1f\u0b40 |"
 case"pa":return"\u0a2e\u0a41\u0a28\u0a3f\u0a17\u0a47\u0a24\u0a40"
 case"ta":return"\u0bae\u0bc1\u0ba9\u0bbf\u0b95\u0bc6\u0ba4\u0bbf"
 case"te":return"\u0c2e\u0c41\u0c28\u0c3f\u0c17\u0c47\u0c1f\u0c3f"
-case"Ur":return"\u0645\u0648\u0646\u06af\u06cc\u0679\u06cc"
+case"ur":return"\u0645\u0648\u0646\u06af\u06cc\u0679\u06cc"
 default:return"Munigeti"}},
 $iah:1}
 A.Ks.prototype={}
